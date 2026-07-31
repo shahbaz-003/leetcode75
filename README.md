@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shahbaz-003/leetcode75/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shahbaz-003/leetcode75/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shahbaz-003/leetcode75/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/shahbaz-003/leetcode75/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/shahbaz-003/leetcode75/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shahbaz-003/leetcode75/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/shahbaz-003/leetcode75/tree/master/0334-increasing-triplet-subsequence) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shahbaz-003/leetcode75/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/shahbaz-003/leetcode75/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shahbaz-003/leetcode75/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shahbaz-003/leetcode75/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shahbaz-003/leetcode75/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
