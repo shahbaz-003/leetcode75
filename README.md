@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/shahbaz-003/leetcode75/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/shahbaz-003/leetcode75/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahbaz-003/leetcode75/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shahbaz-003/leetcode75/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shahbaz-003/leetcode75/tree/master/0443-string-compression) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shahbaz-003/leetcode75/tree/master/0242-valid-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shahbaz-003/leetcode75/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shahbaz-003/leetcode75/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shahbaz-003/leetcode75/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shahbaz-003/leetcode75/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/shahbaz-003/leetcode75/tree/master/0242-valid-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shahbaz-003/leetcode75/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shahbaz-003/leetcode75/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
