@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shahbaz-003/leetcode75/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/shahbaz-003/leetcode75/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/shahbaz-003/leetcode75/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahbaz-003/leetcode75/tree/master/0345-reverse-vowels-of-a-string) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shahbaz-003/leetcode75/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shahbaz-003/leetcode75/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shahbaz-003/leetcode75/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/shahbaz-003/leetcode75/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shahbaz-003/leetcode75/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/shahbaz-003/leetcode75/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shahbaz-003/leetcode75/tree/master/0283-move-zeroes) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shahbaz-003/leetcode75/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shahbaz-003/leetcode75/tree/master/0242-valid-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shahbaz-003/leetcode75/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shahbaz-003/leetcode75/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shahbaz-003/leetcode75/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/shahbaz-003/leetcode75/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shahbaz-003/leetcode75/tree/master/0242-valid-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shahbaz-003/leetcode75/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shahbaz-003/leetcode75/tree/master/1679-max-number-of-k-sum-pairs) |
