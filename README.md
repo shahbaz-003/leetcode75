@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shahbaz-003/leetcode75/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shahbaz-003/leetcode75/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/shahbaz-003/leetcode75/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/shahbaz-003/leetcode75/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shahbaz-003/leetcode75/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahbaz-003/leetcode75/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz-003/leetcode75/tree/master/0349-intersection-of-two-arrays) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/shahbaz-003/leetcode75/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shahbaz-003/leetcode75/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shahbaz-003/leetcode75/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0162-find-peak-element](https://github.com/shahbaz-003/leetcode75/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shahbaz-003/leetcode75/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/shahbaz-003/leetcode75/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shahbaz-003/leetcode75/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shahbaz-003/leetcode75/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/shahbaz-003/leetcode75/tree/master/0229-majority-element-ii) |
