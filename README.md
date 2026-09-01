@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shahbaz-003/leetcode75/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/shahbaz-003/leetcode75/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shahbaz-003/leetcode75/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shahbaz-003/leetcode75/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/shahbaz-003/leetcode75/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/shahbaz-003/leetcode75/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/shahbaz-003/leetcode75/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shahbaz-003/leetcode75/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/shahbaz-003/leetcode75/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz-003/leetcode75/tree/master/0349-intersection-of-two-arrays) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shahbaz-003/leetcode75/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/shahbaz-003/leetcode75/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shahbaz-003/leetcode75/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shahbaz-003/leetcode75/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz-003/leetcode75/tree/master/0349-intersection-of-two-arrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shahbaz-003/leetcode75/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shahbaz-003/leetcode75/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shahbaz-003/leetcode75/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shahbaz-003/leetcode75/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shahbaz-003/leetcode75/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shahbaz-003/leetcode75/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz-003/leetcode75/tree/master/0349-intersection-of-two-arrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shahbaz-003/leetcode75/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shahbaz-003/leetcode75/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/shahbaz-003/leetcode75/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/shahbaz-003/leetcode75/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz-003/leetcode75/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/shahbaz-003/leetcode75/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -181,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shahbaz-003/leetcode75/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shahbaz-003/leetcode75/tree/master/0229-majority-element-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shahbaz-003/leetcode75/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
