@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shahbaz-003/leetcode75/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shahbaz-003/leetcode75/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/shahbaz-003/leetcode75/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shahbaz-003/leetcode75/tree/master/0151-reverse-words-in-a-string) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shahbaz-003/leetcode75/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/shahbaz-003/leetcode75/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shahbaz-003/leetcode75/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shahbaz-003/leetcode75/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shahbaz-003/leetcode75/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shahbaz-003/leetcode75/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shahbaz-003/leetcode75/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shahbaz-003/leetcode75/tree/master/0217-contains-duplicate) |
