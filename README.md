@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shahbaz-003/leetcode75/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahbaz-003/leetcode75/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/shahbaz-003/leetcode75/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/shahbaz-003/leetcode75/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/shahbaz-003/leetcode75/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shahbaz-003/leetcode75/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/shahbaz-003/leetcode75/tree/master/0541-reverse-string-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shahbaz-003/leetcode75/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz-003/leetcode75/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/shahbaz-003/leetcode75/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/shahbaz-003/leetcode75/tree/master/0387-first-unique-character-in-a-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shahbaz-003/leetcode75/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shahbaz-003/leetcode75/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shahbaz-003/leetcode75/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shahbaz-003/leetcode75/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shahbaz-003/leetcode75/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/shahbaz-003/leetcode75/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/shahbaz-003/leetcode75/tree/master/0387-first-unique-character-in-a-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shahbaz-003/leetcode75/tree/master/1657-determine-if-two-strings-are-close) |
 ## Stack
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shahbaz-003/leetcode75/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/shahbaz-003/leetcode75/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
