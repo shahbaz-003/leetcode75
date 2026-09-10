@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shahbaz-003/leetcode75/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/shahbaz-003/leetcode75/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shahbaz-003/leetcode75/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/shahbaz-003/leetcode75/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shahbaz-003/leetcode75/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahbaz-003/leetcode75/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz-003/leetcode75/tree/master/0349-intersection-of-two-arrays) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shahbaz-003/leetcode75/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shahbaz-003/leetcode75/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shahbaz-003/leetcode75/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/shahbaz-003/leetcode75/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/shahbaz-003/leetcode75/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz-003/leetcode75/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/shahbaz-003/leetcode75/tree/master/0605-can-place-flowers) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/shahbaz-003/leetcode75/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/shahbaz-003/leetcode75/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shahbaz-003/leetcode75/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz-003/leetcode75/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/shahbaz-003/leetcode75/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -208,4 +211,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shahbaz-003/leetcode75/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shahbaz-003/leetcode75/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shahbaz-003/leetcode75/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shahbaz-003/leetcode75/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
