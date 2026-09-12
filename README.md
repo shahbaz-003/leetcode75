@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/shahbaz-003/leetcode75/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shahbaz-003/leetcode75/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/shahbaz-003/leetcode75/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shahbaz-003/leetcode75/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/shahbaz-003/leetcode75/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/shahbaz-003/leetcode75/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/shahbaz-003/leetcode75/tree/master/0844-backspace-string-compare) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz-003/leetcode75/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/shahbaz-003/leetcode75/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shahbaz-003/leetcode75/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shahbaz-003/leetcode75/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shahbaz-003/leetcode75/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shahbaz-003/leetcode75/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shahbaz-003/leetcode75/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shahbaz-003/leetcode75/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shahbaz-003/leetcode75/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/shahbaz-003/leetcode75/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/shahbaz-003/leetcode75/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shahbaz-003/leetcode75/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
