@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shahbaz-003/leetcode75/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/shahbaz-003/leetcode75/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz-003/leetcode75/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/shahbaz-003/leetcode75/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0605-can-place-flowers](https://github.com/shahbaz-003/leetcode75/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/shahbaz-003/leetcode75/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/shahbaz-003/leetcode75/tree/master/0735-asteroid-collision) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/shahbaz-003/leetcode75/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shahbaz-003/leetcode75/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shahbaz-003/leetcode75/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/shahbaz-003/leetcode75/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shahbaz-003/leetcode75/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shahbaz-003/leetcode75/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shahbaz-003/leetcode75/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shahbaz-003/leetcode75/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shahbaz-003/leetcode75/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz-003/leetcode75/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/shahbaz-003/leetcode75/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shahbaz-003/leetcode75/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shahbaz-003/leetcode75/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
