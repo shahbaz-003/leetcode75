@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shahbaz-003/leetcode75/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shahbaz-003/leetcode75/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shahbaz-003/leetcode75/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/shahbaz-003/leetcode75/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/shahbaz-003/leetcode75/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shahbaz-003/leetcode75/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shahbaz-003/leetcode75/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahbaz-003/leetcode75/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shahbaz-003/leetcode75/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shahbaz-003/leetcode75/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/shahbaz-003/leetcode75/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shahbaz-003/leetcode75/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shahbaz-003/leetcode75/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shahbaz-003/leetcode75/tree/master/0205-isomorphic-strings) |
@@ -254,4 +256,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/shahbaz-003/leetcode75/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shahbaz-003/leetcode75/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/shahbaz-003/leetcode75/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
