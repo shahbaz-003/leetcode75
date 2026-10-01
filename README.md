@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shahbaz-003/leetcode75/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/shahbaz-003/leetcode75/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shahbaz-003/leetcode75/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/shahbaz-003/leetcode75/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shahbaz-003/leetcode75/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shahbaz-003/leetcode75/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shahbaz-003/leetcode75/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shahbaz-003/leetcode75/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/shahbaz-003/leetcode75/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/shahbaz-003/leetcode75/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shahbaz-003/leetcode75/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shahbaz-003/leetcode75/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/shahbaz-003/leetcode75/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
