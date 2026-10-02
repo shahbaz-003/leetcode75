@@ -1,7 +1,6 @@
-import java.util.*;
-
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
+
         List<List<Integer>> result = new ArrayList<>();
 
         Arrays.sort(nums);
@@ -21,22 +20,33 @@ class Solution {
                 int sum = nums[i] + nums[left] + nums[right];
 
                 if (sum == 0) {
-                    result.add(Arrays.asList(nums[i], nums[left], nums[right]));
+
+                    result.add(Arrays.asList(
+                        nums[i],
+                        nums[left],
+                        nums[right]
+                    ));
 
                     left++;
                     right--;
 
-                    while (left < right && nums[left] == nums[left - 1]) {
+                    // Skip duplicate left values
+                    while (left < right &&
+                           nums[left] == nums[left - 1]) {
                         left++;
                     }
 
-                    while (left < right && nums[right] == nums[right + 1]) {
+                    // Skip duplicate right values
+                    while (left < right &&
+                           nums[right] == nums[right + 1]) {
                         right--;
                     }
 
-                } else if (sum < 0) {
+                } 
+                else if (sum < 0) {
                     left++;
-                } else {
+                } 
+                else {
                     right--;
                 }
             }
