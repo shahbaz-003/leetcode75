@@ -1,4 +1,5 @@
 class Solution {
+
     public int maxProduct(int[] nums) {
 
         int max = nums[0];
@@ -10,10 +11,10 @@ class Solution {
             int current = nums[i];
 
             int tempMax = Math.max(current,
-                            Math.max(max * current, min * current));
+                    Math.max(max * current, min * current));
 
             int tempMin = Math.min(current,
-                            Math.min(max * current, min * current));
+                    Math.min(max * current, min * current));
 
             max = tempMax;
             min = tempMin;
