@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shahbaz-003/leetcode75/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shahbaz-003/leetcode75/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/shahbaz-003/leetcode75/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/shahbaz-003/leetcode75/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/shahbaz-003/leetcode75/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shahbaz-003/leetcode75/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shahbaz-003/leetcode75/tree/master/0189-rotate-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shahbaz-003/leetcode75/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shahbaz-003/leetcode75/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shahbaz-003/leetcode75/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0152-maximum-product-subarray](https://github.com/shahbaz-003/leetcode75/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/shahbaz-003/leetcode75/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shahbaz-003/leetcode75/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
