@@ -15,7 +15,7 @@ class Solution {
             long sum = 0;
             
             for(int i = 0 ; i < nums.length ; i++) {
-                sum += (nums[i] + mid - 1) / mid;
+                sum += (nums[i] + (long) mid - 1) / mid;
             }
             if (sum <= threshold) {
                 ans = mid;
