@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/shahbaz-003/leetcode75/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/shahbaz-003/leetcode75/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/shahbaz-003/leetcode75/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shahbaz-003/leetcode75/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shahbaz-003/leetcode75/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shahbaz-003/leetcode75/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shahbaz-003/leetcode75/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz-003/leetcode75/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shahbaz-003/leetcode75/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/shahbaz-003/leetcode75/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shahbaz-003/leetcode75/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Prefix Sum
 |  |
 | ------- |
